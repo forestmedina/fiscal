@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : solicitudesXML.xml
+    Created on : 2 de enero de 2012, 9:31
+    Author     : forest
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+<solicitud>
+ <listar clase="impresora"/>
+ <usar impresora="idImpresora"></usar>
+ <factura>
+    <texto>Nombre Cliente:Edward Medina</texto>
+    <texto>RIF:17307676</texto>
+     <articulo impuesto="EXENTO" precio="165.0" cantidad="2.5" descripcion="articulo tata"/>
+     <anular impuesto="EXENTO" precio="165.0" cantidad="2.5" descripcion="articulo tata"/>
+     <comentario>Esto es un comentario</comentario>
+ </factura>
+ <reporteX />
+ <reporteZ />
+</solicitud>
+</root>

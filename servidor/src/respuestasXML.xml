@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : respuestasXML.xml
+    Created on : 2 de enero de 2012, 10:57
+    Author     : forest
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+    <lista clase="impresora">
+        <impresora nombre="" modelo="" />
+    </lista>
+</root>

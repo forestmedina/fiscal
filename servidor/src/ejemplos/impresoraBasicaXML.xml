@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : impresoraBasicaXML.xml
+    Created on : 2 de enero de 2012, 12:53
+    Author     : forest
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+     <articulo impuesto="EXENTO" precio="165.0" cantidad="2.5" descripcion="articulo tata"/>
+     <comentario>Esto es un comentario</comentario>
+     <pagoTotal medio="01"/>
+</root>
